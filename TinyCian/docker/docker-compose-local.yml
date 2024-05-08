@@ -69,7 +69,6 @@ services:
       - 8500:8500
     networks:
       - spring-cloud-network
-    network_mode: bridge
 
 
 networks:
